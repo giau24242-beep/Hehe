@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bể Màn Hình</string>
+    <string name="overlay_permission_title">Cấp quyền hiển thị trên các ứng dụng khác</string>
+    <string name="overlay_permission_desc">Để màn hình bị nứt ngay trên ứng dụng bạn bè đang dùng (Facebook, TikTok, Game…), hãy bật quyền Cho phép hiển thị trên các ứng dụng khác (Display over other apps).</string>
+    <string name="grant_permission">Cấp quyền ngay</string>
+    <string name="start_overlay_prank">Bật lớp phủ troll</string>
+    <string name="start_fullscreen_prank">Troll toàn màn hình ngay</string>
+    <string name="double_back_exit_hint">Nhấn nút Quay lại (Back) 2 lần để thoát màn hình bể</string>
+    <string name="overlay_notification_title">Bể Màn Hình Đang Bật</string>
+    <string name="overlay_notification_text">Chạm vào bất kỳ đâu trên màn hình để gây nứt. Nhấn vào đây để tắt.</string>
+</resources>

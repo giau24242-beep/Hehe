@@ -1,0 +1,6 @@
+{
+  "name": "Bể Màn Hình",
+  "description": "Ứng dụng troll vỡ màn hình chân thực với hiệu ứng nứt kính tại điểm chạm, đốm mực đen AMOLED loang, sọc màn hình lỗi, âm thanh vỡ kính sống động và chế độ lớp phủ overlay toàn hệ thống.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
